@@ -1,0 +1,12 @@
+#t1{
+  color: blue;
+}
+
+canvas{
+  border : 1px solid black;
+  margin: 10px;
+}
+
+#controls{
+  float : right;
+}

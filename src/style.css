@@ -1,0 +1,10 @@
+#t1{
+  color: blue;
+}
+
+canvas{
+  border : 1px solid black;
+  width: 400pt;
+  height: 80pt;
+  margin: 10px;
+}
